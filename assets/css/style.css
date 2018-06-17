@@ -1,0 +1,44 @@
+#agate-image,
+        #lapis-lazuli-image,
+        #brazilianite-image,
+        #labradorite-image {
+            position: relative;
+            left: 15%;
+            width: 250px;
+            height: 250px;
+        }
+
+        body {
+            background-image: url("https://www.colonialmarble.net/wp-content/uploads/2014/05/andromeda-white-granite.jpg");
+        }
+        .start {
+            color: black;
+            background-color: white
+            ck;
+            position: relative;
+            left: 44%;
+        }
+        h1 {
+            color: black;
+            font-size: 30px;
+            position: relative;
+            left: 70%;
+        }
+        
+        p,
+        #score-display {
+            color: black;
+            font-size: 25px;
+        }
+
+        #wins-display {
+            color: green;
+        }
+
+        #losses-display {
+            color: red;
+        }
+
+        .col-md-4{
+            font-weight: bold;
+        }
